@@ -1,12 +1,5 @@
 # Java_arrays_ordenamiento
-2(Ejercicio_ metodo_ burbuja)
-MARIA ALEJANDRA ROMERO MENDEZ
-DAVID ESTEBAN RODRIGUEZ PINEDA
-descargar 
-De: MARIA ALEJANDRA ROMERO MENDEZ
-Enviado: martes, 21 de mayo de 2019 19:34
-Para: JHONATHAN ELIAS RUIZ BUITRAGO
-Asunto: 2
+
 
 package metodosdeordenamiento;
 
